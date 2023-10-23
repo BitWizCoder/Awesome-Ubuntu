@@ -1,5 +1,12 @@
 # Awesome Ubuntu
 
+#### Os
+- [Ubuntu]()
+- [Linux Mint]()
+- [xUbuntu]()
+- [Linux Lite]()
+
+
 #### Tools and Softwares
 
 - [ffmpeg]()
@@ -8,6 +15,19 @@
 - [Gimp]()
 - [qBittorrent]()
 - [Fireshot]()
+- [MPV]()
+- [Pomotroid]()
+
+#### Themes and icons
+
+#### Scripts
+
+
+#### Programming
+- [vsCodium]()
+
+
+
 
 #### More Resoursec
 
